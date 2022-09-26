@@ -9321,7 +9321,7 @@ textarea.form-control-lg {
   }
 }
 /*!
- * Select2 v4 Bootstrap 5 theme v1.2.0
+ * Select2 v4 Bootstrap 5 theme v1.3.0
 */
 .select2-container--bootstrap-5 {
   display: block;
@@ -9404,6 +9404,8 @@ select + .select2-container--bootstrap-5 {
 .select2-container--bootstrap-5 .select2-dropdown {
   z-index: 1056;
   overflow: hidden;
+  color: #212529;
+  background-color: #fff;
   border-color: #86b7fe;
   border-radius: 0.25rem;
 }
